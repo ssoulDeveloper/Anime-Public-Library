@@ -1,2 +1,6 @@
 # Anime-Public-Library
-Pending...
+Pending full description...
+
+Change Log:
+
+0.1 : Initial version
