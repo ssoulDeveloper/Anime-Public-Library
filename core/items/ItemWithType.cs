@@ -1,5 +1,5 @@
 ﻿
-namespace AnimePublicLibrary.core
+namespace AnimePublicLibrary.core.items
 {
     public class ItemWithType<T> : SerieItem
     {

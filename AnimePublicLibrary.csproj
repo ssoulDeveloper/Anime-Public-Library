@@ -43,7 +43,7 @@
     <Compile Include="APL.cs" />
     <Compile Include="core\ISerie.cs" />
     <Compile Include="core\Item.cs" />
-    <Compile Include="core\ItemWithType.cs" />
+    <Compile Include="core\items\ItemWithType.cs" />
     <Compile Include="core\Serie.cs" />
     <Compile Include="core\SerieItem.cs" />
     <Compile Include="LightNovel.cs" />
@@ -57,6 +57,10 @@
     <Compile Include="watch\AnimeSeason.cs" />
     <Compile Include="watch\AnimeSerie.cs" />
     <Compile Include="watch\Episode.cs" />
+    <Compile Include="world\people\Organization.cs" />
+    <Compile Include="world\people\Person.cs" />
+    <Compile Include="world\Publisher.cs" />
+    <Compile Include="world\StaffMember.cs" />
   </ItemGroup>
   <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
